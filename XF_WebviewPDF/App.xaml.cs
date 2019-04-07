@@ -12,7 +12,7 @@ namespace XF_WebviewPDF
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage("http://bmctugra.com/4x2-yuksek-tavan"));
+            MainPage = new NavigationPage(new MainPage("insert your URL here"));
         }
 
         protected override void OnStart()
